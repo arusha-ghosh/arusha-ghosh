@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm **Arusha Ghosh**  
+🎓 B.Tech CSE Student at Vivekananda Global University (2nd Year)  
+💻 Passionate about Web Development, Programming & Technology  
+🚀 Exploring HTML, CSS, JavaScript, and sharpening my skills in C/C++ and Java  
 
-<!--
-**arusha-ghosh/arusha-ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me  
+- 🌱 Currently learning **Frontend Development**  
+- 💡 Interested in **Web Apps**, **UI Design**, and **Tech Innovation**  
+- 💬 I enjoy helping with **HTML, CSS, Git/GitHub basics, and beginner programming concepts**  
+- 🎯 Goal: To become a **Full Stack Developer**  
+- ⚡ Fun fact: I love experimenting with **CSS animations & creative UI layouts**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills  
+**Languages:** C, C++, HTML, CSS, JavaScript  
+**Tools:** VS Code, Git, GitHub  
+**Design Tools:** Canva, Figma (UI Wireframes & Prototypes)
+
+---
+
+### 🌐 Connect With Me  
+(Add your links here)
+
+---
+
+⭐️ *“Learn. Build. Upgrade.”*
