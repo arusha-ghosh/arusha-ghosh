@@ -1,29 +1,25 @@
-### Hi, I'm **Arusha Ghosh**  
-🎓 B.Tech CSE Student at Vivekananda Global University (2nd Year)  
-💻 Passionate about Web Development, Programming & Technology  
-🚀 Exploring HTML, CSS, JavaScript, and sharpening my skills in C/C++ and Java  
+# Hi, I'm **Arusha Ghosh** 👋
 
----
+🎓 B.Tech CSE Student at **Vivekananda Global University** | 3rd Year
 
-### 🧠 About Me  
-- 🌱 Currently learning **Frontend Development**  
-- 💡 Interested in **Web Apps**, **UI Design**, and **Tech Innovation**  
-- 💬 I enjoy helping with **HTML, CSS, Git/GitHub basics, and beginner programming concepts**  
-- 🎯 Goal: To become a **Full Stack Developer**  
-- ⚡ Fun fact: I love experimenting with **CSS animations & creative UI layouts**!
+💻 Frontend Developer | 📊 Aspiring Data Analyst | 🚀 Learning Backend Development & DSA
 
----
+### 🧠 About Me
 
-### 🛠️ Skills  
-**Languages:** C, C++, HTML, CSS, JavaScript  
-**Tools:** VS Code, Git, GitHub  
-**Design Tools:** Canva, Figma (UI Wireframes & Prototypes)
+- 💻 Learned **Frontend Development** with HTML, CSS & JavaScript
+- 📊 Aspiring **Data Analyst**, currently learning **Excel, SQL & Data Analytics**
+- ⚙️ Currently exploring **Backend Development & DSA**
+- 💡 Programming knowledge in **C, C++, Java & JavaScript**
+- 🛠️ Tools: **Git, GitHub & VS Code**
 
----
+### 🎯 Interests
 
-### 🌐 Connect With Me  
-(Add your links here)
+**Data Analytics • Web Development • Problem Solving • Technology**
 
----
+### 🌱 Learn • Build • Analyze • Grow
 
-⭐️ *“Learn. Build. Upgrade.”*
+### 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/arusha-ghosh-646211363?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+📧 [Email]ghosharusha25@gmail.com
+🐙 [GitHub](https://github.com/arusha-ghosh)
