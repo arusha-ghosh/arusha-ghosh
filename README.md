@@ -1,6 +1,6 @@
 # Hi, I'm **Arusha Ghosh** 👋
 
-🎓 B.Tech CSE Student at **Vivekananda Global University** | 3rd Year
+🎓 B.Tech CSE Student at **Vivekananda Global University** | 
 
 💻 Frontend Developer | 📊 Aspiring Data Analyst | 🚀 Learning Backend Development & DSA
 
@@ -21,5 +21,5 @@
 ### 📫 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/arusha-ghosh-646211363?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-📧 [Email]ghosharusha25@gmail.com
+📧 [Email] ghosharusha25@gmail.com
 🐙 [GitHub](https://github.com/arusha-ghosh)
