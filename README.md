@@ -21,4 +21,4 @@
 ### 📫 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/arusha-ghosh-646211363?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br>
-📧 [Email] ghosharusha25@gmail.com 
+📧 Email= ghosharusha25@gmail.com 
